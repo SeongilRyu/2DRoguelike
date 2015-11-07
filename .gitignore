@@ -1,0 +1,12 @@
+*.log
+Library*
+Temp/*
+Assets/Audio*
+Assets/Completed*
+Assets/Fonts*
+Assets/Prefabs*
+Assets/Scenes*
+Assets/Sprites*
+ProjectSettings*
+
+
